@@ -1,0 +1,4 @@
+﻿Email (Invalid emails will be ignored),"Type (Allowed: TeamMember, Stakeholder or Supporter)"
+teammember@columinity.com,Stakeholder
+stakeholder@columinity.com,TeamMember
+supporter@columinity.com,Supporter
